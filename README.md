@@ -16,7 +16,8 @@ It is simple to get started with Velocity. Get started with Velocity [Getting St
 Need | Plugin
 -- | --
 Permission | [LuckPerms Velocity](https://luckperms.net/download)
-Antibot | X
+Antibot | [LimboFilter](https://github.com/Elytrium/LimboFilter/releases)
+Antibot API | [LimboAPI](https://github.com/Elytrium/LimboAPI/releases)
 OnlineTime | [VelocityOnlineTime](https://modrinth.com/plugin/velocityvanish) (WIP)
 Skin | [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/)
 Queue | [ajQueue](https://www.spigotmc.org/resources/ajqueue.78266/)
