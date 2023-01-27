@@ -21,7 +21,7 @@ OnlineTime | [VelocityOnlineTime](https://modrinth.com/plugin/velocityvanish) (W
 Skin | [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/)
 Queue | [ajQueue](https://www.spigotmc.org/resources/ajqueue.78266/)
 Authentication | [AuthMeVelocity](https://modrinth.com/plugin/authmevelocity)
-Utils | [EnhancedVelocity](https://modrinth.com/plugin/enhancedvelocity)
+Utils | [EnhancedVelocity](https://modrinth.com/plugin/enhancedvelocity) / [VelocityTools](https://modrinth.com/plugin/velocitytools)
 MOTD | [MiniMOTD](https://modrinth.com/mod/minimotd) / [ServerListPlus](https://ci.codemc.org/job/Minecrell/job/ServerListPlus/)
 Report | [VelocityReport](https://modrinth.com/plugin/velocityreport)
 Vanish | [VelocityVanish](https://modrinth.com/plugin/velocityvanish)
