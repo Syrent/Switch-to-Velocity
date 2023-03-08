@@ -26,3 +26,5 @@ MOTD | [MiniMOTD](https://modrinth.com/mod/minimotd) / [ServerListPlus](https://
 Report | [VelocityReport](https://modrinth.com/plugin/velocityreport)
 Vanish | [VelocityVanish](https://modrinth.com/plugin/velocityvanish)
 LoadBalancer | [VelocityLoadBalancer](https://github.com/bhopahk/VelocityLoadBalancer)
+StaffChat | [VelocityStaffChat](https://modrinth.com/plugin/velocitystaffchat)
+JustOneMOre | [JustOneMore Velocity](https://modrinth.com/plugin/justonemore)
