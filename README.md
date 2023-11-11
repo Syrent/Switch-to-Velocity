@@ -66,7 +66,7 @@ Getting started with Velocity is simple. Follow the [Getting Started](https://do
 - [VelocityTools](https://modrinth.com/plugin/velocitytools): A collection of tools including a brand changer, BungeeCord commands, protocol blocker, and hostnames manager for Velocity.
 
 ### Placeholders
-- [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders): Adds custom placeholders for server information and customization.
+- [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders): MiniMessage Component-based Placeholders for Paper, Fabric, Sponge, Folia and Velocity platforms.
 - [PAPIProxyBridge](https://modrinth.com/plugin/papiproxybridge): A library bridge plugin that allows proxy plugins to format text with PlaceholderAPI placeholders.
 
 ### MOTD
