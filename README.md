@@ -74,7 +74,7 @@ Getting started with Velocity is simple. Follow the [Getting Started](https://do
 - [VelocityReport](https://modrinth.com/plugin/velocityreport): Provides a comprehensive reporting system for effective management of player reports.
 
 ### Vanish
-- [VelocityVanish](https://modrinth.com/plugin/velocityvanish): A modern vanish system for your server with Velocity support, allowing players to vanish from the server and granting them invisibility.
+- [SayanVanish](https://modrinth.com/plugin/sayanvanish): A modern vanish system for your server with Velocity support, allowing players to vanish from the server and granting them invisibility.
 
 ### LoadBalancer
 - [VelocityLoadBalancer](https://github.com/bhopahk/VelocityLoadBalancer): A simple plugin that offers load balancing capabilities for distributed server environments on a Velocity proxy.
