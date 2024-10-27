@@ -49,9 +49,6 @@ Getting started with Velocity is simple. Follow the [Getting Started](https://do
 ### Moderation
 - [LibertyBans](https://modrinth.com/plugin/libertybans): A comprehensive punishment plugin that offers effective moderation and management of player behavior.
 
-### OnlineTime
-- [VelocityOnlineTime](https://modrinth.com/plugin/velocityvanish) (WIP): A plugin that tracks and displays players' online time.
-
 ### Skin
 - [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/): A plugin that restores skins for offline mode servers and networks, allowing players to change their skins with a single command.
 
