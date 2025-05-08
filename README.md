@@ -8,7 +8,6 @@
   - [Permission](#permission)
   - [Antibot](#antibot)
   - [Moderation](#moderation)
-  - [OnlineTime](#onlinetime)
   - [Skin](#skin)
   - [Queue](#queue)
   - [Authentication](#authentication)
